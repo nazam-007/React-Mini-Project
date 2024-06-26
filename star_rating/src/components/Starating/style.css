@@ -1,0 +1,13 @@
+.active{
+    color: yellow;
+}
+.inactive{
+    color: black;
+}
+.star-rating{
+    /* background: blue; */
+    margin-left: 500px;
+}
+body{
+    background-color: blue;
+}
