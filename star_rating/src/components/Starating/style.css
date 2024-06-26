@@ -6,8 +6,13 @@
 }
 .star-rating{
     /* background: blue; */
-    margin-left: 500px;
+    margin-left: 520px;
 }
 body{
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.445);
+}
+.star-rating-text{
+    /* background: blue; */
+    margin-left: 600px;
+    font-weight: 500;
 }
